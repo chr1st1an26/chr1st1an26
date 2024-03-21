@@ -32,6 +32,10 @@
   </a>
 </p>
 <br>
+## GitHub Stats 📈
+
+![chr1st1an26's GitHub stats](https://github-readme-stats.vercel.app/api?username=chr1st1an26&show_icons=true&theme=radical&count_private=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chr1st1an26&layout=compact&theme=radical&langs_count=6&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
