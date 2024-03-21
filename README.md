@@ -9,7 +9,7 @@
 <br>
 <h2>Sobre mi 😄</h2>
 <p align="left">
-  <!--Intro inicio>
+  <!--Intro inicio-->
 🎓 INGENIERO EN DESRROLLO Y GESTIÓN DE SOFTWARE
 
 🎥 Pequeño desarrollador de software aspirando a frnades cosas y poder mejroar en mis habilidades
