@@ -15,7 +15,7 @@
 
 🎥 Pequeño desarrollador de software aspirando a grandes cosas y poder mejroar en mis habilidades
 
-💻 Con aconocimientos en muchas areas de la programación y con unos años de experiencia (2 años)
+💻 Con conocimientos en muchas areas de la programación y con unos años de experiencia (2 años)
 
 💬 Con buen manejo de la comunicación entre compañeros
 
